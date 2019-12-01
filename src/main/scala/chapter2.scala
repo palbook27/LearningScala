@@ -1,4 +1,11 @@
 object chapter2 {
+  /**
+    *
+    * 자료형
+    *
+    * 표현식
+    *
+    */
   def acction() = {
     //Q1
     val celsius = 7
